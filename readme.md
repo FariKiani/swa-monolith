@@ -5,13 +5,13 @@
 
 main takes some hours
 
-##Results
+## Results
 `system.json` `system.png`
 
-##Prepare
+## Prepare
 save as csv
 
-##Procedure
+## Procedure
 
 - parse csv files
 
@@ -50,7 +50,7 @@ save as csv
     - 27 in huge (divide big systems with recursion)
     
 
-##links        
+## links        
 ### clustering
 - https://docs.scipy.org/doc/scipy/reference/cluster.hierarchy.html
 - https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html#scipy.cluster.hierarchy.linkage
@@ -58,7 +58,7 @@ save as csv
 - https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.fcluster.html
 
 
-###graph
+### graph
 - https://www.bogotobogo.com/python/python_Dijkstras_Shortest_Path_Algorithm.php
 - https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
 - https://en.wikipedia.org/wiki/Disjoint-set_data_structure
